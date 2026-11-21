@@ -46,4 +46,4 @@ This assignment implements a Stack using a manually created Singly Linked List i
 | Find Middle | O(n) |
 
 ## Author
-Ajit kumar Ray
+MOHIT TYAGI
